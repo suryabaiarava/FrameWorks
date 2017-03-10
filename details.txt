@@ -1,3 +1,4 @@
 # FrameWorks
-sizzle.js------------------Exclusively for CSS selector.
+sizzle.js--------------Exclusively for CSS selector.
 Lombok jar-------------To create getters and setters via annotation (https://projectlombok.org/)
+gson-------------------To convert objects to JSON objects.
