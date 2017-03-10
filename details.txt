@@ -1,0 +1,3 @@
+# FrameWorks
+sizzle.js------------------Exclusively for CSS selector.
+Lombok jar-------------To create getters and setters via annotation (https://projectlombok.org/)
