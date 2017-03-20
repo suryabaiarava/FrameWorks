@@ -1,0 +1,8 @@
+AngularJS is a javascript framework similar to jquery.
+The ng-app directive defines an AngularJS application.
+The ng-model directive binds the value of HTML controls (input, select, textarea) to application data.
+The ng-bind directive binds application data to the HTML view.
+
+
+Tutorials Link
+https://www.w3schools.com/angular/angular_intro.asp
