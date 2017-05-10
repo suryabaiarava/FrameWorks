@@ -1,0 +1,6 @@
+Docker commands
+docker exec -it <container-name> bash ----------To enter into container
+docker restart  <container-name>  ----------------------------------To restart the container
+docker cp <sourcefilename> <containername>:<location>    -To copy the files
+kill <pid>  -----------------------------------------   To kill process
+
