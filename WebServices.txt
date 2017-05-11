@@ -1,0 +1,13 @@
+WebServices 
+-Client server application
+-Uses XML messagin system
+-Not dependent on OS or Language
+
+
+Types of webservies
+Soap(Big webservices)                                 Restful(http://docs.oracle.com/javaee/6/tutorial/doc/gilik.html)
+-JAX-WS is the java API                               Jax-RS is the java API
+-Needs more bandwidth                                 Less Bandwidth
+-Supports only XML type                               Supports JSON,xml,plain/text,HTML
+-Rpc style and document                               Jersey and RestEasy are the implementation
+Style are implementation                              
