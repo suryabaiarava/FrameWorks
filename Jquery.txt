@@ -1,0 +1,11 @@
+Jquery is the javascript framework that provides effiency for developers.
+
+Some advantages
+--Easy traversing of DOM elemets using Sizzle engine
+--Event Handling
+--Ajax Support
+--Animations
+--Light weight
+
+Anonymous function Decalaration
+var <function-name>=function(){}
