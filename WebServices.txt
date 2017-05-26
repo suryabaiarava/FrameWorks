@@ -1,6 +1,6 @@
 WebServices 
 -Client server application
--Uses XML messagin system
+-Uses XML messaging system
 -Not dependent on OS or Language
 
 
