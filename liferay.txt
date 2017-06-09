@@ -1,0 +1,3 @@
+liferay theme
+yeoman is used to inject dependency related to UI files and scanfolding it.
+gulp is used to convert sass.to css and zip them to .war file.
